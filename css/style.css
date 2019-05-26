@@ -23,5 +23,9 @@ figcaption{
   background-color: aqua;
 }
 #logo h1{
+  font-family: 'Clicker Script', Cursive;
   
+}
+#logo h2{
+  font-family: 'Elsie Swash Caps', Cursive;
 }
