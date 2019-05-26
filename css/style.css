@@ -34,3 +34,6 @@ figcaption{
   text-decoration: none;
   
 }
+#details a:hover{
+  text-decoration: underline;
+}
